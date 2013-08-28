@@ -1,0 +1,6 @@
+1377719119
+Application	/home/raj/rails_practice/ruby_rails/config/application.rb	  class Application 
+ApplicationController	/home/raj/rails_practice/ruby_rails/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/raj/rails_practice/ruby_rails/app/helpers/application_helper.rb	module ApplicationHelper
+RubyRails	/home/raj/rails_practice/ruby_rails/config/application.rb	module RubyRails
+secure_token	/home/raj/rails_practice/ruby_rails/config/initializers/secret_token.rb	def secure_token
