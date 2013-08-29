@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: spec/requests/ruby_rails_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2013-08-29 11:44:30 +05:30
+  - :path: app/views/static_pages/help.html.erb
+    :cursor_offset: 93
+    :timestamp: 2013-08-29 12:01:42 +05:30
+  - :path: spec/spec_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-08-29 11:46:16 +05:30
+files_to_retain: 0
